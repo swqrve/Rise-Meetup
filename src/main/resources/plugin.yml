@@ -1,0 +1,8 @@
+name: RiseMeetup
+version: ${project.version}
+main: me.swerve.meetup.RiseMeetup
+author: Swerve
+description: UHC Meetup made by Swerve.
+commands:
+  loadout:
+    aliases: [editkit, kit, edit, editloadout, editkit]
